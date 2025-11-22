@@ -18,14 +18,14 @@ Allows users to add, delete, view, and manage tasks easily.
 
 ---
 
-📂 Project Structure
-ToDo-Manager/
-├── main.py
-├── task_managment.py
-├── shot.png
-├── LICENSE
-├── .gitignore
-└── README.md
+📂 Project Structure    
+ToDo-Manager/    
+├── main.py    
+├── task_managment.py    
+├── shot.png    
+├── LICENSE    
+├── .gitignore    
+└── README.md    
 
 ---
 
